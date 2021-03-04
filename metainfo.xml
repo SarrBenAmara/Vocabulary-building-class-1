@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="ECFDADDE-9423-4598-8724-696E6ABFDDD3" version="0" availableOffline="1">
+<presentation guid="C4C71086-E48C-426F-9ED0-BB1BF53FA34F" version="0" availableOffline="1">
 	<info>
 		<title>Vocabulary building 1</title>
 		<description/>
 	</info>
-	<files index="id23" thumbnail="id52" totalSize="5715618">
+	<files index="id24" thumbnail="id53" totalSize="5757261">
 		<file id="id0">data/thmb1.png</file>
 		<file id="id1">data/slide1.js</file>
 		<file id="id2">data/slide1.css</file>
@@ -17,48 +17,49 @@
 		<file id="id9">data/quiz1/fonts/fnt0.woff</file>
 		<file id="id10">data/quiz1/fonts/fnt1.woff</file>
 		<file id="id11">data/quiz1/fonts/fnt2.woff</file>
-		<file id="id12">data/quiz1/images/img-1c6e0d2d9bdcbc61c140d08f770ea8cb773f5834.png</file>
-		<file id="id13">data/quiz1/images/img-29396087bcffca9d819c7ab025b794a3e4fbf064.png</file>
-		<file id="id14">data/quiz1/images/img-69f65e3aedf1c0dd8733a392e30df9b3172bf52f.png</file>
-		<file id="id15">data/quiz1/images/img-7b89d2fe87f093ce0d5f940ec9fbf26fc9c6543f.png</file>
-		<file id="id16">data/quiz1/images/img-a0908f35aa18f30cbafcfffe28f11ce2d9754ceb.png</file>
-		<file id="id17">data/quiz1/images/img-c3cc1a855d01dc1159e3f40dc588b3a9537c00ed.png</file>
-		<file id="id18">data/quiz1/images/quiz_bg_0.png</file>
-		<file id="id19">data/thmb4.png</file>
-		<file id="id20">data/slide4.js</file>
-		<file id="id21">data/slide4.css</file>
-		<file id="id22">data/quizplayer.js</file>
-		<file id="id23">index.html</file>
-		<file id="id24">data/player.js</file>
-		<file id="id29">data/browsersupport.js</file>
-		<file id="id30">data/apple-touch-icon.png</file>
-		<file id="id31">data/favicon.ico</file>
-		<file id="id32">data/fnt0.woff</file>
-		<file id="id33">data/fnt1.woff</file>
-		<file id="id34">data/fnt10.woff</file>
-		<file id="id35">data/fnt2.woff</file>
-		<file id="id36">data/fnt3.woff</file>
-		<file id="id37">data/fnt4.woff</file>
-		<file id="id38">data/fnt5.woff</file>
-		<file id="id39">data/fnt6.woff</file>
-		<file id="id40">data/fnt7.woff</file>
-		<file id="id41">data/fnt8.woff</file>
-		<file id="id42">data/fnt9.woff</file>
-		<file id="id43">data/html5-unsupported.html</file>
-		<file id="id44">data/html5.png</file>
-		<file id="id45">data/img0.png</file>
-		<file id="id46">data/img1.png</file>
-		<file id="id47">data/img2.svg</file>
-		<file id="id48">data/img3.png</file>
-		<file id="id49">data/img4.png</file>
-		<file id="id50">data/img5.png</file>
-		<file id="id51">data/logo1.png</file>
-		<file id="id52">data/ismplayer/preview.png</file>
-		<file id="id53">data/ismplayer/play.svg</file>
-		<file id="id54">data/ismplayer/style.css</file>
-		<file id="id55">data/ismplayer/style_mini.css</file>
-		<file id="id56">ismplayer.html</file>
-		<file id="id57">data/ismplayer/app_store2x.png</file>
-		<file id="id58">metainfo.xml</file>
+		<file id="id12">data/quiz1/images/8f9a-70d9-2aeb-f637.png</file>
+		<file id="id13">data/quiz1/images/img-1c6e0d2d9bdcbc61c140d08f770ea8cb773f5834.png</file>
+		<file id="id14">data/quiz1/images/img-29396087bcffca9d819c7ab025b794a3e4fbf064.png</file>
+		<file id="id15">data/quiz1/images/img-69f65e3aedf1c0dd8733a392e30df9b3172bf52f.png</file>
+		<file id="id16">data/quiz1/images/img-7b89d2fe87f093ce0d5f940ec9fbf26fc9c6543f.png</file>
+		<file id="id17">data/quiz1/images/img-a0908f35aa18f30cbafcfffe28f11ce2d9754ceb.png</file>
+		<file id="id18">data/quiz1/images/img-c3cc1a855d01dc1159e3f40dc588b3a9537c00ed.png</file>
+		<file id="id19">data/quiz1/images/quiz_bg_0.png</file>
+		<file id="id20">data/thmb4.png</file>
+		<file id="id21">data/slide4.js</file>
+		<file id="id22">data/slide4.css</file>
+		<file id="id23">data/quizplayer.js</file>
+		<file id="id24">index.html</file>
+		<file id="id25">data/player.js</file>
+		<file id="id30">data/browsersupport.js</file>
+		<file id="id31">data/apple-touch-icon.png</file>
+		<file id="id32">data/favicon.ico</file>
+		<file id="id33">data/fnt0.woff</file>
+		<file id="id34">data/fnt1.woff</file>
+		<file id="id35">data/fnt10.woff</file>
+		<file id="id36">data/fnt2.woff</file>
+		<file id="id37">data/fnt3.woff</file>
+		<file id="id38">data/fnt4.woff</file>
+		<file id="id39">data/fnt5.woff</file>
+		<file id="id40">data/fnt6.woff</file>
+		<file id="id41">data/fnt7.woff</file>
+		<file id="id42">data/fnt8.woff</file>
+		<file id="id43">data/fnt9.woff</file>
+		<file id="id44">data/html5-unsupported.html</file>
+		<file id="id45">data/html5.png</file>
+		<file id="id46">data/img0.png</file>
+		<file id="id47">data/img1.png</file>
+		<file id="id48">data/img2.svg</file>
+		<file id="id49">data/img3.png</file>
+		<file id="id50">data/img4.png</file>
+		<file id="id51">data/img5.png</file>
+		<file id="id52">data/logo1.png</file>
+		<file id="id53">data/ismplayer/preview.png</file>
+		<file id="id54">data/ismplayer/play.svg</file>
+		<file id="id55">data/ismplayer/style.css</file>
+		<file id="id56">data/ismplayer/style_mini.css</file>
+		<file id="id57">ismplayer.html</file>
+		<file id="id58">data/ismplayer/app_store2x.png</file>
+		<file id="id59">metainfo.xml</file>
 	</files>
 </presentation>
