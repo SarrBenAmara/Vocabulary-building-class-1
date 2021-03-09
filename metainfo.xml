@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="C4C71086-E48C-426F-9ED0-BB1BF53FA34F" version="0" availableOffline="1">
+<presentation guid="274231AB-EF43-4BD5-AEE2-ED14570BAAC5" version="0" availableOffline="1">
 	<info>
 		<title>Vocabulary building 1</title>
 		<description/>
 	</info>
-	<files index="id24" thumbnail="id53" totalSize="5757261">
+	<files index="id24" thumbnail="id53" totalSize="5757925">
 		<file id="id0">data/thmb1.png</file>
 		<file id="id1">data/slide1.js</file>
 		<file id="id2">data/slide1.css</file>
@@ -17,7 +17,7 @@
 		<file id="id9">data/quiz1/fonts/fnt0.woff</file>
 		<file id="id10">data/quiz1/fonts/fnt1.woff</file>
 		<file id="id11">data/quiz1/fonts/fnt2.woff</file>
-		<file id="id12">data/quiz1/images/8f9a-70d9-2aeb-f637.png</file>
+		<file id="id12">data/quiz1/images/066d-04a5-24ae-767f.png</file>
 		<file id="id13">data/quiz1/images/img-1c6e0d2d9bdcbc61c140d08f770ea8cb773f5834.png</file>
 		<file id="id14">data/quiz1/images/img-29396087bcffca9d819c7ab025b794a3e4fbf064.png</file>
 		<file id="id15">data/quiz1/images/img-69f65e3aedf1c0dd8733a392e30df9b3172bf52f.png</file>
